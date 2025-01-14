@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.ISix" parent="android:Theme.Material.Light.NoActionBar" />
+    <style name="Theme.ISixCompat" parent="Theme.AppCompat.Light.NoActionBar" />
+</resources>
